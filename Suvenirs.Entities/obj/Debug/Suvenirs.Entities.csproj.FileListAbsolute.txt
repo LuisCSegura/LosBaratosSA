@@ -1,0 +1,16 @@
+C:\Users\Extreme Tech Sc\source\repos\Los Baratos S.A\Suvenirs.Entities\bin\Debug\Suvenirs.Entities.dll
+C:\Users\Extreme Tech Sc\source\repos\Los Baratos S.A\Suvenirs.Entities\bin\Debug\Suvenirs.Entities.pdb
+C:\Users\Extreme Tech Sc\source\repos\Los Baratos S.A\Suvenirs.Entities\obj\Debug\Suvenirs.Entities.csprojAssemblyReference.cache
+C:\Users\Extreme Tech Sc\source\repos\Los Baratos S.A\Suvenirs.Entities\obj\Debug\Suvenirs.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Extreme Tech Sc\source\repos\Los Baratos S.A\Suvenirs.Entities\obj\Debug\Suvenirs.Entities.dll
+C:\Users\Extreme Tech Sc\source\repos\Los Baratos S.A\Suvenirs.Entities\obj\Debug\Suvenirs.Entities.pdb
+C:\Users\louis\OneDrive\Documents\VisualStudioProjects\Los Baratos S.A\Suvenirs.Entities\bin\Debug\Suvenirs.Entities.dll
+C:\Users\louis\OneDrive\Documents\VisualStudioProjects\Los Baratos S.A\Suvenirs.Entities\bin\Debug\Suvenirs.Entities.pdb
+C:\Users\louis\OneDrive\Documents\VisualStudioProjects\Los Baratos S.A\Suvenirs.Entities\obj\Debug\Suvenirs.Entities.csprojAssemblyReference.cache
+C:\Users\louis\OneDrive\Documents\VisualStudioProjects\Los Baratos S.A\Suvenirs.Entities\obj\Debug\Suvenirs.Entities.dll
+C:\Users\louis\OneDrive\Documents\VisualStudioProjects\Los Baratos S.A\Suvenirs.Entities\obj\Debug\Suvenirs.Entities.pdb
+C:\Users\louis\OneDrive\Documents\Documentos de Proyectos\VisualStudioProjects\Los Baratos S.A\Suvenirs.Entities\bin\Debug\Suvenirs.Entities.dll
+C:\Users\louis\OneDrive\Documents\Documentos de Proyectos\VisualStudioProjects\Los Baratos S.A\Suvenirs.Entities\bin\Debug\Suvenirs.Entities.pdb
+C:\Users\louis\OneDrive\Documents\Documentos de Proyectos\VisualStudioProjects\Los Baratos S.A\Suvenirs.Entities\obj\Debug\Suvenirs.Entities.csprojAssemblyReference.cache
+C:\Users\louis\OneDrive\Documents\Documentos de Proyectos\VisualStudioProjects\Los Baratos S.A\Suvenirs.Entities\obj\Debug\Suvenirs.Entities.dll
+C:\Users\louis\OneDrive\Documents\Documentos de Proyectos\VisualStudioProjects\Los Baratos S.A\Suvenirs.Entities\obj\Debug\Suvenirs.Entities.pdb

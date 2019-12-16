@@ -1,0 +1,76 @@
+C:\Users\Extreme Tech Sc\source\repos\Los Baratos S.A\Suvenirs.BOL\bin\Debug\Suvenirs.BOL.dll
+C:\Users\Extreme Tech Sc\source\repos\Los Baratos S.A\Suvenirs.BOL\bin\Debug\Suvenirs.BOL.pdb
+C:\Users\Extreme Tech Sc\source\repos\Los Baratos S.A\Suvenirs.BOL\bin\Debug\Suvenirs.DAL.dll
+C:\Users\Extreme Tech Sc\source\repos\Los Baratos S.A\Suvenirs.BOL\bin\Debug\Suvenirs.Entities.dll
+C:\Users\Extreme Tech Sc\source\repos\Los Baratos S.A\Suvenirs.BOL\bin\Debug\Npgsql.dll
+C:\Users\Extreme Tech Sc\source\repos\Los Baratos S.A\Suvenirs.BOL\bin\Debug\System.ValueTuple.dll
+C:\Users\Extreme Tech Sc\source\repos\Los Baratos S.A\Suvenirs.BOL\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Extreme Tech Sc\source\repos\Los Baratos S.A\Suvenirs.BOL\bin\Debug\System.Memory.dll
+C:\Users\Extreme Tech Sc\source\repos\Los Baratos S.A\Suvenirs.BOL\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Extreme Tech Sc\source\repos\Los Baratos S.A\Suvenirs.BOL\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Extreme Tech Sc\source\repos\Los Baratos S.A\Suvenirs.BOL\bin\Debug\System.Buffers.dll
+C:\Users\Extreme Tech Sc\source\repos\Los Baratos S.A\Suvenirs.BOL\bin\Debug\Suvenirs.DAL.pdb
+C:\Users\Extreme Tech Sc\source\repos\Los Baratos S.A\Suvenirs.BOL\bin\Debug\Suvenirs.Entities.pdb
+C:\Users\Extreme Tech Sc\source\repos\Los Baratos S.A\Suvenirs.BOL\bin\Debug\Npgsql.pdb
+C:\Users\Extreme Tech Sc\source\repos\Los Baratos S.A\Suvenirs.BOL\bin\Debug\Npgsql.xml
+C:\Users\Extreme Tech Sc\source\repos\Los Baratos S.A\Suvenirs.BOL\bin\Debug\System.ValueTuple.xml
+C:\Users\Extreme Tech Sc\source\repos\Los Baratos S.A\Suvenirs.BOL\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Extreme Tech Sc\source\repos\Los Baratos S.A\Suvenirs.BOL\bin\Debug\System.Memory.xml
+C:\Users\Extreme Tech Sc\source\repos\Los Baratos S.A\Suvenirs.BOL\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Extreme Tech Sc\source\repos\Los Baratos S.A\Suvenirs.BOL\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Extreme Tech Sc\source\repos\Los Baratos S.A\Suvenirs.BOL\bin\Debug\System.Buffers.xml
+C:\Users\Extreme Tech Sc\source\repos\Los Baratos S.A\Suvenirs.BOL\obj\Debug\Suvenirs.BOL.csprojAssemblyReference.cache
+C:\Users\Extreme Tech Sc\source\repos\Los Baratos S.A\Suvenirs.BOL\obj\Debug\Suvenirs.BOL.csproj.CoreCompileInputs.cache
+C:\Users\Extreme Tech Sc\source\repos\Los Baratos S.A\Suvenirs.BOL\obj\Debug\Suvenirs.BOL.csproj.CopyComplete
+C:\Users\Extreme Tech Sc\source\repos\Los Baratos S.A\Suvenirs.BOL\obj\Debug\Suvenirs.BOL.dll
+C:\Users\Extreme Tech Sc\source\repos\Los Baratos S.A\Suvenirs.BOL\obj\Debug\Suvenirs.BOL.pdb
+C:\Users\louis\OneDrive\Documents\VisualStudioProjects\Los Baratos S.A\Suvenirs.BOL\obj\Debug\Suvenirs.BOL.csprojAssemblyReference.cache
+C:\Users\louis\OneDrive\Documents\VisualStudioProjects\Los Baratos S.A\Suvenirs.BOL\obj\Debug\Suvenirs.BOL.dll
+C:\Users\louis\OneDrive\Documents\VisualStudioProjects\Los Baratos S.A\Suvenirs.BOL\obj\Debug\Suvenirs.BOL.pdb
+C:\Users\louis\OneDrive\Documents\VisualStudioProjects\Los Baratos S.A\Suvenirs.BOL\bin\Debug\Suvenirs.BOL.dll
+C:\Users\louis\OneDrive\Documents\VisualStudioProjects\Los Baratos S.A\Suvenirs.BOL\bin\Debug\Suvenirs.BOL.pdb
+C:\Users\louis\OneDrive\Documents\VisualStudioProjects\Los Baratos S.A\Suvenirs.BOL\bin\Debug\Suvenirs.DAL.dll
+C:\Users\louis\OneDrive\Documents\VisualStudioProjects\Los Baratos S.A\Suvenirs.BOL\bin\Debug\Suvenirs.Entities.dll
+C:\Users\louis\OneDrive\Documents\VisualStudioProjects\Los Baratos S.A\Suvenirs.BOL\bin\Debug\Npgsql.dll
+C:\Users\louis\OneDrive\Documents\VisualStudioProjects\Los Baratos S.A\Suvenirs.BOL\bin\Debug\System.ValueTuple.dll
+C:\Users\louis\OneDrive\Documents\VisualStudioProjects\Los Baratos S.A\Suvenirs.BOL\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\louis\OneDrive\Documents\VisualStudioProjects\Los Baratos S.A\Suvenirs.BOL\bin\Debug\System.Memory.dll
+C:\Users\louis\OneDrive\Documents\VisualStudioProjects\Los Baratos S.A\Suvenirs.BOL\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\louis\OneDrive\Documents\VisualStudioProjects\Los Baratos S.A\Suvenirs.BOL\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\louis\OneDrive\Documents\VisualStudioProjects\Los Baratos S.A\Suvenirs.BOL\bin\Debug\System.Buffers.dll
+C:\Users\louis\OneDrive\Documents\VisualStudioProjects\Los Baratos S.A\Suvenirs.BOL\bin\Debug\Suvenirs.DAL.pdb
+C:\Users\louis\OneDrive\Documents\VisualStudioProjects\Los Baratos S.A\Suvenirs.BOL\bin\Debug\Suvenirs.Entities.pdb
+C:\Users\louis\OneDrive\Documents\VisualStudioProjects\Los Baratos S.A\Suvenirs.BOL\bin\Debug\Npgsql.pdb
+C:\Users\louis\OneDrive\Documents\VisualStudioProjects\Los Baratos S.A\Suvenirs.BOL\bin\Debug\Npgsql.xml
+C:\Users\louis\OneDrive\Documents\VisualStudioProjects\Los Baratos S.A\Suvenirs.BOL\bin\Debug\System.ValueTuple.xml
+C:\Users\louis\OneDrive\Documents\VisualStudioProjects\Los Baratos S.A\Suvenirs.BOL\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\louis\OneDrive\Documents\VisualStudioProjects\Los Baratos S.A\Suvenirs.BOL\bin\Debug\System.Memory.xml
+C:\Users\louis\OneDrive\Documents\VisualStudioProjects\Los Baratos S.A\Suvenirs.BOL\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\louis\OneDrive\Documents\VisualStudioProjects\Los Baratos S.A\Suvenirs.BOL\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\louis\OneDrive\Documents\VisualStudioProjects\Los Baratos S.A\Suvenirs.BOL\bin\Debug\System.Buffers.xml
+C:\Users\louis\OneDrive\Documents\VisualStudioProjects\Los Baratos S.A\Suvenirs.BOL\obj\Debug\Suvenirs.BOL.csproj.CopyComplete
+C:\Users\louis\OneDrive\Documents\Documentos de Proyectos\VisualStudioProjects\Los Baratos S.A\Suvenirs.BOL\bin\Debug\Suvenirs.BOL.dll
+C:\Users\louis\OneDrive\Documents\Documentos de Proyectos\VisualStudioProjects\Los Baratos S.A\Suvenirs.BOL\bin\Debug\Suvenirs.BOL.pdb
+C:\Users\louis\OneDrive\Documents\Documentos de Proyectos\VisualStudioProjects\Los Baratos S.A\Suvenirs.BOL\bin\Debug\Suvenirs.DAL.dll
+C:\Users\louis\OneDrive\Documents\Documentos de Proyectos\VisualStudioProjects\Los Baratos S.A\Suvenirs.BOL\bin\Debug\Suvenirs.Entities.dll
+C:\Users\louis\OneDrive\Documents\Documentos de Proyectos\VisualStudioProjects\Los Baratos S.A\Suvenirs.BOL\bin\Debug\Npgsql.dll
+C:\Users\louis\OneDrive\Documents\Documentos de Proyectos\VisualStudioProjects\Los Baratos S.A\Suvenirs.BOL\bin\Debug\System.ValueTuple.dll
+C:\Users\louis\OneDrive\Documents\Documentos de Proyectos\VisualStudioProjects\Los Baratos S.A\Suvenirs.BOL\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\louis\OneDrive\Documents\Documentos de Proyectos\VisualStudioProjects\Los Baratos S.A\Suvenirs.BOL\bin\Debug\System.Memory.dll
+C:\Users\louis\OneDrive\Documents\Documentos de Proyectos\VisualStudioProjects\Los Baratos S.A\Suvenirs.BOL\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\louis\OneDrive\Documents\Documentos de Proyectos\VisualStudioProjects\Los Baratos S.A\Suvenirs.BOL\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\louis\OneDrive\Documents\Documentos de Proyectos\VisualStudioProjects\Los Baratos S.A\Suvenirs.BOL\bin\Debug\System.Buffers.dll
+C:\Users\louis\OneDrive\Documents\Documentos de Proyectos\VisualStudioProjects\Los Baratos S.A\Suvenirs.BOL\bin\Debug\Suvenirs.DAL.pdb
+C:\Users\louis\OneDrive\Documents\Documentos de Proyectos\VisualStudioProjects\Los Baratos S.A\Suvenirs.BOL\bin\Debug\Suvenirs.Entities.pdb
+C:\Users\louis\OneDrive\Documents\Documentos de Proyectos\VisualStudioProjects\Los Baratos S.A\Suvenirs.BOL\bin\Debug\Npgsql.pdb
+C:\Users\louis\OneDrive\Documents\Documentos de Proyectos\VisualStudioProjects\Los Baratos S.A\Suvenirs.BOL\bin\Debug\Npgsql.xml
+C:\Users\louis\OneDrive\Documents\Documentos de Proyectos\VisualStudioProjects\Los Baratos S.A\Suvenirs.BOL\bin\Debug\System.ValueTuple.xml
+C:\Users\louis\OneDrive\Documents\Documentos de Proyectos\VisualStudioProjects\Los Baratos S.A\Suvenirs.BOL\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\louis\OneDrive\Documents\Documentos de Proyectos\VisualStudioProjects\Los Baratos S.A\Suvenirs.BOL\bin\Debug\System.Memory.xml
+C:\Users\louis\OneDrive\Documents\Documentos de Proyectos\VisualStudioProjects\Los Baratos S.A\Suvenirs.BOL\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\louis\OneDrive\Documents\Documentos de Proyectos\VisualStudioProjects\Los Baratos S.A\Suvenirs.BOL\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\louis\OneDrive\Documents\Documentos de Proyectos\VisualStudioProjects\Los Baratos S.A\Suvenirs.BOL\bin\Debug\System.Buffers.xml
+C:\Users\louis\OneDrive\Documents\Documentos de Proyectos\VisualStudioProjects\Los Baratos S.A\Suvenirs.BOL\obj\Debug\Suvenirs.BOL.csprojAssemblyReference.cache
+C:\Users\louis\OneDrive\Documents\Documentos de Proyectos\VisualStudioProjects\Los Baratos S.A\Suvenirs.BOL\obj\Debug\Suvenirs.BOL.csproj.CopyComplete
+C:\Users\louis\OneDrive\Documents\Documentos de Proyectos\VisualStudioProjects\Los Baratos S.A\Suvenirs.BOL\obj\Debug\Suvenirs.BOL.dll
+C:\Users\louis\OneDrive\Documents\Documentos de Proyectos\VisualStudioProjects\Los Baratos S.A\Suvenirs.BOL\obj\Debug\Suvenirs.BOL.pdb

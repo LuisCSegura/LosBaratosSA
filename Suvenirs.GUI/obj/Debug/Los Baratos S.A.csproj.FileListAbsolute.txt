@@ -1,0 +1,10 @@
+C:\Users\Extreme Tech Sc\source\repos\Los Baratos S.A\Los Baratos S.A\bin\Debug\Los Baratos S.A.exe.config
+C:\Users\Extreme Tech Sc\source\repos\Los Baratos S.A\Los Baratos S.A\bin\Debug\Los Baratos S.A.exe
+C:\Users\Extreme Tech Sc\source\repos\Los Baratos S.A\Los Baratos S.A\bin\Debug\Los Baratos S.A.pdb
+C:\Users\Extreme Tech Sc\source\repos\Los Baratos S.A\Los Baratos S.A\obj\Debug\Los Baratos S.A.csprojAssemblyReference.cache
+C:\Users\Extreme Tech Sc\source\repos\Los Baratos S.A\Los Baratos S.A\obj\Debug\Los_Baratos_S.A.Form1.resources
+C:\Users\Extreme Tech Sc\source\repos\Los Baratos S.A\Los Baratos S.A\obj\Debug\Los_Baratos_S.A.Properties.Resources.resources
+C:\Users\Extreme Tech Sc\source\repos\Los Baratos S.A\Los Baratos S.A\obj\Debug\Los Baratos S.A.csproj.GenerateResource.cache
+C:\Users\Extreme Tech Sc\source\repos\Los Baratos S.A\Los Baratos S.A\obj\Debug\Los Baratos S.A.csproj.CoreCompileInputs.cache
+C:\Users\Extreme Tech Sc\source\repos\Los Baratos S.A\Los Baratos S.A\obj\Debug\Los Baratos S.A.exe
+C:\Users\Extreme Tech Sc\source\repos\Los Baratos S.A\Los Baratos S.A\obj\Debug\Los Baratos S.A.pdb

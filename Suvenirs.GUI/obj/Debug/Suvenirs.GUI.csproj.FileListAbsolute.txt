@@ -1,0 +1,115 @@
+C:\Users\Extreme Tech Sc\source\repos\Los Baratos S.A\Suvenirs.GUI\obj\Debug\Suvenirs.GUI.csprojAssemblyReference.cache
+C:\Users\Extreme Tech Sc\source\repos\Los Baratos S.A\Suvenirs.GUI\obj\Debug\Suvenirs.GUI.FrmClientes.resources
+C:\Users\Extreme Tech Sc\source\repos\Los Baratos S.A\Suvenirs.GUI\obj\Debug\Suvenirs.GUI.FrmLogin.resources
+C:\Users\Extreme Tech Sc\source\repos\Los Baratos S.A\Suvenirs.GUI\obj\Debug\Suvenirs.GUI.FrmPrincipal.resources
+C:\Users\Extreme Tech Sc\source\repos\Los Baratos S.A\Suvenirs.GUI\obj\Debug\Suvenirs.GUI.FrmProductos.resources
+C:\Users\Extreme Tech Sc\source\repos\Los Baratos S.A\Suvenirs.GUI\obj\Debug\Suvenirs.GUI.FrmReportes.resources
+C:\Users\Extreme Tech Sc\source\repos\Los Baratos S.A\Suvenirs.GUI\obj\Debug\Suvenirs.GUI.FrmUsuarios.resources
+C:\Users\Extreme Tech Sc\source\repos\Los Baratos S.A\Suvenirs.GUI\obj\Debug\Suvenirs.GUI.FrmVentas.resources
+C:\Users\Extreme Tech Sc\source\repos\Los Baratos S.A\Suvenirs.GUI\obj\Debug\Suvenirs.GUI.Properties.Resources.resources
+C:\Users\Extreme Tech Sc\source\repos\Los Baratos S.A\Suvenirs.GUI\obj\Debug\Suvenirs.GUI.csproj.GenerateResource.cache
+C:\Users\Extreme Tech Sc\source\repos\Los Baratos S.A\Suvenirs.GUI\obj\Debug\Suvenirs.GUI.csproj.CoreCompileInputs.cache
+C:\Users\Extreme Tech Sc\source\repos\Los Baratos S.A\Suvenirs.GUI\bin\Debug\Suvenirs.GUI.exe.config
+C:\Users\Extreme Tech Sc\source\repos\Los Baratos S.A\Suvenirs.GUI\bin\Debug\Suvenirs.GUI.exe
+C:\Users\Extreme Tech Sc\source\repos\Los Baratos S.A\Suvenirs.GUI\bin\Debug\Suvenirs.GUI.pdb
+C:\Users\Extreme Tech Sc\source\repos\Los Baratos S.A\Suvenirs.GUI\bin\Debug\Suvenirs.BOL.dll
+C:\Users\Extreme Tech Sc\source\repos\Los Baratos S.A\Suvenirs.GUI\bin\Debug\Suvenirs.Entities.dll
+C:\Users\Extreme Tech Sc\source\repos\Los Baratos S.A\Suvenirs.GUI\bin\Debug\Suvenirs.DAL.dll
+C:\Users\Extreme Tech Sc\source\repos\Los Baratos S.A\Suvenirs.GUI\bin\Debug\Npgsql.dll
+C:\Users\Extreme Tech Sc\source\repos\Los Baratos S.A\Suvenirs.GUI\bin\Debug\System.ValueTuple.dll
+C:\Users\Extreme Tech Sc\source\repos\Los Baratos S.A\Suvenirs.GUI\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Extreme Tech Sc\source\repos\Los Baratos S.A\Suvenirs.GUI\bin\Debug\System.Memory.dll
+C:\Users\Extreme Tech Sc\source\repos\Los Baratos S.A\Suvenirs.GUI\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Extreme Tech Sc\source\repos\Los Baratos S.A\Suvenirs.GUI\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Extreme Tech Sc\source\repos\Los Baratos S.A\Suvenirs.GUI\bin\Debug\System.Buffers.dll
+C:\Users\Extreme Tech Sc\source\repos\Los Baratos S.A\Suvenirs.GUI\bin\Debug\Suvenirs.BOL.pdb
+C:\Users\Extreme Tech Sc\source\repos\Los Baratos S.A\Suvenirs.GUI\bin\Debug\Suvenirs.Entities.pdb
+C:\Users\Extreme Tech Sc\source\repos\Los Baratos S.A\Suvenirs.GUI\bin\Debug\Suvenirs.DAL.pdb
+C:\Users\Extreme Tech Sc\source\repos\Los Baratos S.A\Suvenirs.GUI\bin\Debug\Npgsql.pdb
+C:\Users\Extreme Tech Sc\source\repos\Los Baratos S.A\Suvenirs.GUI\bin\Debug\Npgsql.xml
+C:\Users\Extreme Tech Sc\source\repos\Los Baratos S.A\Suvenirs.GUI\bin\Debug\System.ValueTuple.xml
+C:\Users\Extreme Tech Sc\source\repos\Los Baratos S.A\Suvenirs.GUI\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Extreme Tech Sc\source\repos\Los Baratos S.A\Suvenirs.GUI\bin\Debug\System.Memory.xml
+C:\Users\Extreme Tech Sc\source\repos\Los Baratos S.A\Suvenirs.GUI\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Extreme Tech Sc\source\repos\Los Baratos S.A\Suvenirs.GUI\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Extreme Tech Sc\source\repos\Los Baratos S.A\Suvenirs.GUI\bin\Debug\System.Buffers.xml
+C:\Users\Extreme Tech Sc\source\repos\Los Baratos S.A\Suvenirs.GUI\obj\Debug\Suvenirs.GUI.csproj.CopyComplete
+C:\Users\Extreme Tech Sc\source\repos\Los Baratos S.A\Suvenirs.GUI\obj\Debug\Suvenirs.GUI.exe
+C:\Users\Extreme Tech Sc\source\repos\Los Baratos S.A\Suvenirs.GUI\obj\Debug\Suvenirs.GUI.pdb
+C:\Users\Extreme Tech Sc\source\repos\Los Baratos S.A\Suvenirs.GUI\obj\Debug\Suvenirs.GUI.FrmPrincipalClientes.resources
+C:\Users\louis\OneDrive\Documents\VisualStudioProjects\Los Baratos S.A\Suvenirs.GUI\bin\Debug\Suvenirs.GUI.exe.config
+C:\Users\louis\OneDrive\Documents\VisualStudioProjects\Los Baratos S.A\Suvenirs.GUI\bin\Debug\Suvenirs.GUI.exe
+C:\Users\louis\OneDrive\Documents\VisualStudioProjects\Los Baratos S.A\Suvenirs.GUI\bin\Debug\Suvenirs.GUI.pdb
+C:\Users\louis\OneDrive\Documents\VisualStudioProjects\Los Baratos S.A\Suvenirs.GUI\bin\Debug\Suvenirs.BOL.dll
+C:\Users\louis\OneDrive\Documents\VisualStudioProjects\Los Baratos S.A\Suvenirs.GUI\bin\Debug\Suvenirs.Entities.dll
+C:\Users\louis\OneDrive\Documents\VisualStudioProjects\Los Baratos S.A\Suvenirs.GUI\bin\Debug\Suvenirs.DAL.dll
+C:\Users\louis\OneDrive\Documents\VisualStudioProjects\Los Baratos S.A\Suvenirs.GUI\bin\Debug\Npgsql.dll
+C:\Users\louis\OneDrive\Documents\VisualStudioProjects\Los Baratos S.A\Suvenirs.GUI\bin\Debug\System.ValueTuple.dll
+C:\Users\louis\OneDrive\Documents\VisualStudioProjects\Los Baratos S.A\Suvenirs.GUI\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\louis\OneDrive\Documents\VisualStudioProjects\Los Baratos S.A\Suvenirs.GUI\bin\Debug\System.Memory.dll
+C:\Users\louis\OneDrive\Documents\VisualStudioProjects\Los Baratos S.A\Suvenirs.GUI\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\louis\OneDrive\Documents\VisualStudioProjects\Los Baratos S.A\Suvenirs.GUI\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\louis\OneDrive\Documents\VisualStudioProjects\Los Baratos S.A\Suvenirs.GUI\bin\Debug\System.Buffers.dll
+C:\Users\louis\OneDrive\Documents\VisualStudioProjects\Los Baratos S.A\Suvenirs.GUI\bin\Debug\Suvenirs.BOL.pdb
+C:\Users\louis\OneDrive\Documents\VisualStudioProjects\Los Baratos S.A\Suvenirs.GUI\bin\Debug\Suvenirs.Entities.pdb
+C:\Users\louis\OneDrive\Documents\VisualStudioProjects\Los Baratos S.A\Suvenirs.GUI\bin\Debug\Suvenirs.DAL.pdb
+C:\Users\louis\OneDrive\Documents\VisualStudioProjects\Los Baratos S.A\Suvenirs.GUI\bin\Debug\Npgsql.pdb
+C:\Users\louis\OneDrive\Documents\VisualStudioProjects\Los Baratos S.A\Suvenirs.GUI\bin\Debug\Npgsql.xml
+C:\Users\louis\OneDrive\Documents\VisualStudioProjects\Los Baratos S.A\Suvenirs.GUI\bin\Debug\System.ValueTuple.xml
+C:\Users\louis\OneDrive\Documents\VisualStudioProjects\Los Baratos S.A\Suvenirs.GUI\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\louis\OneDrive\Documents\VisualStudioProjects\Los Baratos S.A\Suvenirs.GUI\bin\Debug\System.Memory.xml
+C:\Users\louis\OneDrive\Documents\VisualStudioProjects\Los Baratos S.A\Suvenirs.GUI\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\louis\OneDrive\Documents\VisualStudioProjects\Los Baratos S.A\Suvenirs.GUI\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\louis\OneDrive\Documents\VisualStudioProjects\Los Baratos S.A\Suvenirs.GUI\bin\Debug\System.Buffers.xml
+C:\Users\louis\OneDrive\Documents\VisualStudioProjects\Los Baratos S.A\Suvenirs.GUI\obj\Debug\Suvenirs.GUI.csprojAssemblyReference.cache
+C:\Users\louis\OneDrive\Documents\VisualStudioProjects\Los Baratos S.A\Suvenirs.GUI\obj\Debug\Suvenirs.GUI.FrmClientes.resources
+C:\Users\louis\OneDrive\Documents\VisualStudioProjects\Los Baratos S.A\Suvenirs.GUI\obj\Debug\Suvenirs.GUI.FrmLogin.resources
+C:\Users\louis\OneDrive\Documents\VisualStudioProjects\Los Baratos S.A\Suvenirs.GUI\obj\Debug\Suvenirs.GUI.FrmPrincipal.resources
+C:\Users\louis\OneDrive\Documents\VisualStudioProjects\Los Baratos S.A\Suvenirs.GUI\obj\Debug\Suvenirs.GUI.FrmPrincipalClientes.resources
+C:\Users\louis\OneDrive\Documents\VisualStudioProjects\Los Baratos S.A\Suvenirs.GUI\obj\Debug\Suvenirs.GUI.FrmProductos.resources
+C:\Users\louis\OneDrive\Documents\VisualStudioProjects\Los Baratos S.A\Suvenirs.GUI\obj\Debug\Suvenirs.GUI.FrmReportes.resources
+C:\Users\louis\OneDrive\Documents\VisualStudioProjects\Los Baratos S.A\Suvenirs.GUI\obj\Debug\Suvenirs.GUI.FrmUsuarios.resources
+C:\Users\louis\OneDrive\Documents\VisualStudioProjects\Los Baratos S.A\Suvenirs.GUI\obj\Debug\Suvenirs.GUI.FrmVentas.resources
+C:\Users\louis\OneDrive\Documents\VisualStudioProjects\Los Baratos S.A\Suvenirs.GUI\obj\Debug\Suvenirs.GUI.Properties.Resources.resources
+C:\Users\louis\OneDrive\Documents\VisualStudioProjects\Los Baratos S.A\Suvenirs.GUI\obj\Debug\Suvenirs.GUI.csproj.GenerateResource.cache
+C:\Users\louis\OneDrive\Documents\VisualStudioProjects\Los Baratos S.A\Suvenirs.GUI\obj\Debug\Suvenirs.GUI.csproj.CopyComplete
+C:\Users\louis\OneDrive\Documents\VisualStudioProjects\Los Baratos S.A\Suvenirs.GUI\obj\Debug\Suvenirs.GUI.exe
+C:\Users\louis\OneDrive\Documents\VisualStudioProjects\Los Baratos S.A\Suvenirs.GUI\obj\Debug\Suvenirs.GUI.pdb
+C:\Users\louis\OneDrive\Documents\Documentos de Proyectos\VisualStudioProjects\Los Baratos S.A\Suvenirs.GUI\bin\Debug\Suvenirs.GUI.exe.config
+C:\Users\louis\OneDrive\Documents\Documentos de Proyectos\VisualStudioProjects\Los Baratos S.A\Suvenirs.GUI\bin\Debug\Suvenirs.GUI.exe
+C:\Users\louis\OneDrive\Documents\Documentos de Proyectos\VisualStudioProjects\Los Baratos S.A\Suvenirs.GUI\bin\Debug\Suvenirs.GUI.pdb
+C:\Users\louis\OneDrive\Documents\Documentos de Proyectos\VisualStudioProjects\Los Baratos S.A\Suvenirs.GUI\bin\Debug\Suvenirs.BOL.dll
+C:\Users\louis\OneDrive\Documents\Documentos de Proyectos\VisualStudioProjects\Los Baratos S.A\Suvenirs.GUI\bin\Debug\Suvenirs.Entities.dll
+C:\Users\louis\OneDrive\Documents\Documentos de Proyectos\VisualStudioProjects\Los Baratos S.A\Suvenirs.GUI\bin\Debug\Suvenirs.DAL.dll
+C:\Users\louis\OneDrive\Documents\Documentos de Proyectos\VisualStudioProjects\Los Baratos S.A\Suvenirs.GUI\bin\Debug\Npgsql.dll
+C:\Users\louis\OneDrive\Documents\Documentos de Proyectos\VisualStudioProjects\Los Baratos S.A\Suvenirs.GUI\bin\Debug\System.ValueTuple.dll
+C:\Users\louis\OneDrive\Documents\Documentos de Proyectos\VisualStudioProjects\Los Baratos S.A\Suvenirs.GUI\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\louis\OneDrive\Documents\Documentos de Proyectos\VisualStudioProjects\Los Baratos S.A\Suvenirs.GUI\bin\Debug\System.Memory.dll
+C:\Users\louis\OneDrive\Documents\Documentos de Proyectos\VisualStudioProjects\Los Baratos S.A\Suvenirs.GUI\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\louis\OneDrive\Documents\Documentos de Proyectos\VisualStudioProjects\Los Baratos S.A\Suvenirs.GUI\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\louis\OneDrive\Documents\Documentos de Proyectos\VisualStudioProjects\Los Baratos S.A\Suvenirs.GUI\bin\Debug\System.Buffers.dll
+C:\Users\louis\OneDrive\Documents\Documentos de Proyectos\VisualStudioProjects\Los Baratos S.A\Suvenirs.GUI\bin\Debug\Suvenirs.BOL.pdb
+C:\Users\louis\OneDrive\Documents\Documentos de Proyectos\VisualStudioProjects\Los Baratos S.A\Suvenirs.GUI\bin\Debug\Suvenirs.Entities.pdb
+C:\Users\louis\OneDrive\Documents\Documentos de Proyectos\VisualStudioProjects\Los Baratos S.A\Suvenirs.GUI\bin\Debug\Suvenirs.DAL.pdb
+C:\Users\louis\OneDrive\Documents\Documentos de Proyectos\VisualStudioProjects\Los Baratos S.A\Suvenirs.GUI\bin\Debug\Npgsql.pdb
+C:\Users\louis\OneDrive\Documents\Documentos de Proyectos\VisualStudioProjects\Los Baratos S.A\Suvenirs.GUI\bin\Debug\Npgsql.xml
+C:\Users\louis\OneDrive\Documents\Documentos de Proyectos\VisualStudioProjects\Los Baratos S.A\Suvenirs.GUI\bin\Debug\System.ValueTuple.xml
+C:\Users\louis\OneDrive\Documents\Documentos de Proyectos\VisualStudioProjects\Los Baratos S.A\Suvenirs.GUI\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\louis\OneDrive\Documents\Documentos de Proyectos\VisualStudioProjects\Los Baratos S.A\Suvenirs.GUI\bin\Debug\System.Memory.xml
+C:\Users\louis\OneDrive\Documents\Documentos de Proyectos\VisualStudioProjects\Los Baratos S.A\Suvenirs.GUI\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\louis\OneDrive\Documents\Documentos de Proyectos\VisualStudioProjects\Los Baratos S.A\Suvenirs.GUI\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\louis\OneDrive\Documents\Documentos de Proyectos\VisualStudioProjects\Los Baratos S.A\Suvenirs.GUI\bin\Debug\System.Buffers.xml
+C:\Users\louis\OneDrive\Documents\Documentos de Proyectos\VisualStudioProjects\Los Baratos S.A\Suvenirs.GUI\obj\Debug\Suvenirs.GUI.csprojAssemblyReference.cache
+C:\Users\louis\OneDrive\Documents\Documentos de Proyectos\VisualStudioProjects\Los Baratos S.A\Suvenirs.GUI\obj\Debug\Suvenirs.GUI.FrmClientes.resources
+C:\Users\louis\OneDrive\Documents\Documentos de Proyectos\VisualStudioProjects\Los Baratos S.A\Suvenirs.GUI\obj\Debug\Suvenirs.GUI.FrmLogin.resources
+C:\Users\louis\OneDrive\Documents\Documentos de Proyectos\VisualStudioProjects\Los Baratos S.A\Suvenirs.GUI\obj\Debug\Suvenirs.GUI.FrmPrincipal.resources
+C:\Users\louis\OneDrive\Documents\Documentos de Proyectos\VisualStudioProjects\Los Baratos S.A\Suvenirs.GUI\obj\Debug\Suvenirs.GUI.FrmPrincipalClientes.resources
+C:\Users\louis\OneDrive\Documents\Documentos de Proyectos\VisualStudioProjects\Los Baratos S.A\Suvenirs.GUI\obj\Debug\Suvenirs.GUI.FrmProductos.resources
+C:\Users\louis\OneDrive\Documents\Documentos de Proyectos\VisualStudioProjects\Los Baratos S.A\Suvenirs.GUI\obj\Debug\Suvenirs.GUI.FrmReportes.resources
+C:\Users\louis\OneDrive\Documents\Documentos de Proyectos\VisualStudioProjects\Los Baratos S.A\Suvenirs.GUI\obj\Debug\Suvenirs.GUI.FrmUsuarios.resources
+C:\Users\louis\OneDrive\Documents\Documentos de Proyectos\VisualStudioProjects\Los Baratos S.A\Suvenirs.GUI\obj\Debug\Suvenirs.GUI.FrmVentas.resources
+C:\Users\louis\OneDrive\Documents\Documentos de Proyectos\VisualStudioProjects\Los Baratos S.A\Suvenirs.GUI\obj\Debug\Suvenirs.GUI.Properties.Resources.resources
+C:\Users\louis\OneDrive\Documents\Documentos de Proyectos\VisualStudioProjects\Los Baratos S.A\Suvenirs.GUI\obj\Debug\Suvenirs.GUI.csproj.GenerateResource.cache
+C:\Users\louis\OneDrive\Documents\Documentos de Proyectos\VisualStudioProjects\Los Baratos S.A\Suvenirs.GUI\obj\Debug\Suvenirs.GUI.csproj.CopyComplete
+C:\Users\louis\OneDrive\Documents\Documentos de Proyectos\VisualStudioProjects\Los Baratos S.A\Suvenirs.GUI\obj\Debug\Suvenirs.GUI.exe
+C:\Users\louis\OneDrive\Documents\Documentos de Proyectos\VisualStudioProjects\Los Baratos S.A\Suvenirs.GUI\obj\Debug\Suvenirs.GUI.pdb
